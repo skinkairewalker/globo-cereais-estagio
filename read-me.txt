@@ -1,0 +1,3 @@
+a pasta client é onde ta o site em angular ,  pra rodar o servidor manda um node server.js em ./
+
+com amor waldemiro
